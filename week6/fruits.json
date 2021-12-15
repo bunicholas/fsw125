@@ -1,0 +1,32 @@
+{
+    "Fruits": [{
+        "name": "Apple",
+        "type": "food",
+        "price": "2"
+
+    },
+    {
+        "name": "Orange",
+        "type": "food",
+        "price": "2"
+        
+    },
+    {
+        "name": "Banana",
+        "type": "food",
+        "price": "2"
+        
+    },
+    {
+        "name": "Tomato",
+        "type": "food",
+        "price": "2"
+    },
+    {
+        "name": "Peach",
+        "type": "food",
+        "price": "2"
+
+    }
+]
+}
